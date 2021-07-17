@@ -1,0 +1,41 @@
+body {
+  background-color: #efefef;
+  font-family: Arial;
+  line-height: 1.5;
+  font-size: 25px;
+}
+
+.title {
+  font-size: 50px;
+  color: black;
+}
+
+.nedotitle {
+  font-size: 45px;
+  text-align: center;
+}
+
+.card {
+  width: 100px;
+  margin: -10px 520px;
+}
+
+.zadn {
+  margin: 0px 410px;
+}
+
+.gg {
+  margin: 0px 290px;
+  white-space: nowrap;
+  font-size: 35px;
+}
+
+.axel {
+  margin: 0px 30px;
+  font-size: 30px;
+}
+
+.alesha {
+  margin: 0px 30px;
+  font-size: 30px;
+}
